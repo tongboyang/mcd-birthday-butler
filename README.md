@@ -36,6 +36,7 @@ mcd-birthday-butler/
 ├── README.md                 # 本文件：项目介绍、安装方法、使用示例
 ├── MCP_INTEGRATION.md        # 麦当劳 MCP 工具调用流程与业务价值说明
 ├── CONTEST_DECLARATION.md    # 参赛声明（官方文件，内容未改动）
+├── workbuddy.md              # WorkBuddy 开发过程记录（联动活动提交材料）
 ├── .gitignore                # Git 忽略规则
 └── references/
     └── playbook.md           # 详细话术手册：追问变体、异议处理、点评语料、复查清单
